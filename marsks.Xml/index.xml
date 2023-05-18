@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persondata xmlns:a="https/xmldata/id:1"
+xmlns:b="https/xmldata/id:2">
+<userdata id="1">
+<a:name>WAMIQ</a:name>
+<a:class>9</a:class>
+<a:grade>A+</a:grade>
+<a:percentage>98%</a:percentage>
+
+</userdata>     
+<userdata id="2">
+    <a:name>WAMIQ</a:name>
+    <a:class>9</a:class>
+    <a:grade>A+</a:grade>
+    <a:percentage>98%</a:percentage>
+</userdata>    
+</persondata>
